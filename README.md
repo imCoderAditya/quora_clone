@@ -5,7 +5,7 @@
 
 
 <div> 
-    <img src="https://github.com/imCoderAditya/quora_clone/blob/main/screenshot/4.png"alt="loading..." width="1080" height="480">
+    <img src="https://github.com/imCoderAditya/quora_clone/blob/main/screenshot/4.png"alt="loading...">
     <img src="https://github.com/imCoderAditya/quora_clone/blob/main/screenshot/3.png" alt="loading..."        style="width:1266px;height:500px";>
     <img src="https://github.com/imCoderAditya/quora_clone/blob/main/screenshot/2.png" alt="loading..." width="1080" height="480">
     <img src="https://github.com/imCoderAditya/quora_clone/blob/main/screenshot/1.png" alt="loading..." width="1080" height="480">
