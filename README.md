@@ -8,7 +8,9 @@
     <img src="https://github.com/imCoderAditya/quora_clone/blob/main/screenshot/4.png"alt="loading...">
     <h1 </h1>
     <img src="https://github.com/imCoderAditya/quora_clone/blob/main/screenshot/3.png" alt="loading...">
+    
     <img src="https://github.com/imCoderAditya/quora_clone/blob/main/screenshot/2.png" alt="loading...">
+    
     <img src="https://github.com/imCoderAditya/quora_clone/blob/main/screenshot/1.png" alt="loading...">
  </div>
 
